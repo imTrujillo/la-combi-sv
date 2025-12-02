@@ -111,6 +111,7 @@ GET /token → { "message": "Necesitas un token" }
 
 
 ## 🚀 Deploy
+
 Usado en Railway:
 - PHP 8.x
 - Laravel 11
@@ -118,6 +119,16 @@ Usado en Railway:
 - Deploy con Dockerfile y entrypoint personalizado
 - Port 8000 expuesto usando php artisan serve
 
-## Enlaces 
-- API       -> https://la-combi-backend.onrender.com
-- LACOMBI   -> https://lacombi.vercel.app/
+
+## 🌐 Enlaces 
+
+- API → https://la-combi-backend.onrender.com
+- LACOMBI → https://lacombi.vercel.app/
+
+
+## 👥 Creadores
+
+1. Josué Mauricio → https://github.com/JosuMelara21
+2. Luis Martínez → https://github.com/BlckXI
+3. Steven Trujillo → https://github.com/imTrujillo
+
